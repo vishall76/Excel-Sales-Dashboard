@@ -24,7 +24,8 @@ This project is an interactive Excel Sales Dashboard designed to analyze and vis
 - Excel Functions (SUMIFS, IF, VLOOKUP/XLOOKUP, etc.)
 
 ## 📊 Dashboard Preview
-(Add a screenshot of your dashboard here.)
+<img width="1398" height="629" alt="image" src="https://github.com/user-attachments/assets/c9800e27-a534-4cdd-8857-b2dc3315eb13" />
+
 
 ## 📂 Files Included
 - Excel Dashboard (.xlsx)
